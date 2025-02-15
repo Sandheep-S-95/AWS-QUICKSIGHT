@@ -7,7 +7,7 @@ My **AWS QuickSight Workshop** experience! 📊✨
 1. **Introduction to AWS QuickSight** 🚀
 2. **Setting Up Your Environment** 🛠️
 3. **Connecting to Data Sources** 🔗
-4. **Creating Your First Dashboard** 📈
+4. **Creating my First Dashboard** 📈
 5. **Demo to GEN-BI** 
 6. **Q&A Session** ❓
 
@@ -17,7 +17,7 @@ My **AWS QuickSight Workshop** experience! 📊✨
 - Basic knowledge of data visualization 📊
 - Curiosity and eagerness to learn! 🤓
 
-## 🖼️ Image Placeholder
+## 🖼️ My Dashboard
 
 ![Your Image Here](https://github.com/user-attachments/assets/7d233a12-a625-4563-8eda-ea2e11fa59c9)
 
